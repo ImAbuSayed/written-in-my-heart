@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/written-in-my-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Written In My Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-my-heart/) |
+| **Get License** | [Official Music Licensing for Written In My Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/written-in-my-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `de2009ede7a201f46eddc55c180a85f352588a1b0f55600f98e9d60482fb1740` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
